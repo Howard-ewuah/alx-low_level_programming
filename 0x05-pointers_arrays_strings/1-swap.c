@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *swap_int - swaps the value of int a and int b
+*Owned by Bwave/Bright
 *@a: first int
 *@b: second int
 *Return 0
@@ -12,7 +13,3 @@ s = *a;
 *a = *b;
 *b = s;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
